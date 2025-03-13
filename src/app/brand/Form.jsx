@@ -60,7 +60,7 @@ export default function ContactForm() {
           type="submit"
           className="w-full bg-black text-white py-2 rounded-lg hover:bg-gray-800 transition"
         >
-          Submit
+     Connect meta account
         </button>
       </form>
     </div>
