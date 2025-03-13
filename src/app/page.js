@@ -49,7 +49,7 @@ export default function Home() {
             onClick={() => handleSelection("team")}
           >
             <div>
-              <h3 className="text-lg font-semibold text-gray-900">I'm a Brand</h3>
+              <h3 className="text-lg font-semibold text-gray-900">I&apos;m a Brand</h3>
               <p className="text-gray-600 text-sm">My team needs to automate tasks.</p>
             </div>
             {selected === "team" && <span className="text-blue-600 text-xl">✔</span>}
